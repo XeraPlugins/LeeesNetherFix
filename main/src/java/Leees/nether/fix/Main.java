@@ -53,7 +53,6 @@ public class Main extends JavaPlugin implements Listener {
                 player.sendMessage(this.convertedLang("netherTopMessage"));
             }
         }
-
     }
 
     String convertedLang(String toConvert) {
