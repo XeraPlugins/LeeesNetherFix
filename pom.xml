@@ -11,7 +11,7 @@
 
     <name>LeeesNetherFix</name>
 
-    <description>tps monitor plugin</description>
+    <description>kills players when they go under or above the nether</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
